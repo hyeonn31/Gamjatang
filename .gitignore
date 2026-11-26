@@ -1,0 +1,22 @@
+# 언리얼이 자동으로 만드는 폴더
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# 패키징 결과물
+StagedBuilds/
+*_Build/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
